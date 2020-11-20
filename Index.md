@@ -7,7 +7,7 @@
 <div id="container"></div>
 <div id="header"><p> Header Goes Here</p></div>
 <div id="sidebar"><p> Left Navigation Goes Here</p></div>
-<div id="content"><p> Content Goes Here</p></div>
+<div id="content"><p> Hmmmm</p></div>
 <div id="footer"></div>
 </body>
               
