@@ -1,8 +1,8 @@
 body {background: #7a7a7a; margin: 0; padding: 0;} 
 a {color: #88bfb0;}           
 #container {width: 1200px; margin: 0; padding: 0; background: #7a7a7a;}           
-#header {width: 1200px; 	height: 150px; 	margin: 0; padding: 0; border: 0; background: #7a7a7a;}           
-#sidebar {width: 500px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #7a7a7a;}           
+#header {width: 1200px; 	height: 150px; 	margin: 0; padding: 0; border: 0; background: #7f5d87;}           
+#sidebar {width: 500px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #2e2e2e;}           
 #content {width: 1000px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #7a7a7a;}    
 #content p {font-family: Arial; font-size: 14px}       
 
