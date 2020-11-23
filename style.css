@@ -5,6 +5,10 @@ h1 {
 
 p {
   color:blue;
-  font-size: xx-small;
+  font-size: x-small;
 }
 
+p2 {
+  color:blue;
+  font-size: 12px;
+}
